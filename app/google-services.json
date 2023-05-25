@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539535100328",
+    "project_id": "refill-water-385010",
+    "storage_bucket": "refill-water-385010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539535100328:android:ebed936069c47c0c1bb59d",
+        "android_client_info": {
+          "package_name": "com.iexceed.oasis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539535100328-jnbcfp103kdq3upv58tgruc16tcip13p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iexceed.oasis",
+            "certificate_hash": "7399643494068e06126cef961ad115300a608fe3"
+          }
+        },
+        {
+          "client_id": "539535100328-kbohfq7gpupqgqag4542u3paqnb7apdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8rHjhlPRaWsFMXLwXtrIPIc7PPhx1t0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539535100328-kbohfq7gpupqgqag4542u3paqnb7apdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
